@@ -2,6 +2,8 @@
 
 This suite provides Python scripts for keyphrase-based monoalphabetic substitution encryption, user-directed ad hoc quantitative frequency and adjacency analysis, and interactive partial decryption.
 
+Created using Gemini AI.
+
 ---
 
 ## Suite Components
