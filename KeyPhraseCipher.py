@@ -10,7 +10,7 @@ def encode_keyphrase_cipher():
 
     # Filter out line-break characters (CR, LF)
     plaintext = raw_plaintext.replace('\r', '').replace('\n', '')
-    print(len(plaintext))
+
     # Construct prefix from unique alphabetic characters in keyphrase
     key_chars = []
     for char in keyphrase.upper():
